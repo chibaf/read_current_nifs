@@ -19,5 +19,3 @@ while True:
     break
 ser1.flush()
 ser1.close()
-
-s
